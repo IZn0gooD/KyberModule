@@ -1,0 +1,17 @@
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberShared\bin\Release\net8.0\KyberShared.deps.json
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberShared\bin\Release\net8.0\KyberShared.dll
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberShared\bin\Release\net8.0\KyberShared.pdb
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberShared\bin\Release\net8.0\KyberLibrary.dll
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberShared\bin\Release\net8.0\KyberLibrary.pdb
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberShared\obj\Release\net8.0\KyberShared.csproj.AssemblyReference.cache
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberShared\obj\Release\net8.0\KyberShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberShared\obj\Release\net8.0\KyberShared.AssemblyInfoInputs.cache
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberShared\obj\Release\net8.0\KyberShared.AssemblyInfo.cs
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberShared\obj\Release\net8.0\KyberShared.csproj.CoreCompileInputs.cache
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberShared\obj\Release\net8.0\KyberSha.68D9D423.Up2Date
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberShared\obj\Release\net8.0\KyberShared.dll
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberShared\obj\Release\net8.0\refint\KyberShared.dll
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberShared\obj\Release\net8.0\KyberShared.pdb
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberShared\obj\Release\net8.0\ref\KyberShared.dll
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberShared\bin\Release\net8.0\KyberDomain.dll
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberShared\bin\Release\net8.0\KyberDomain.pdb

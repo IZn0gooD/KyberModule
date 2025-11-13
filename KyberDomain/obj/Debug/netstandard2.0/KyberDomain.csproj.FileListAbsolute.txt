@@ -1,0 +1,10 @@
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberDomain\obj\Debug\netstandard2.0\KyberDomain.csproj.AssemblyReference.cache
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberDomain\obj\Debug\netstandard2.0\KyberDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberDomain\obj\Debug\netstandard2.0\KyberDomain.AssemblyInfoInputs.cache
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberDomain\obj\Debug\netstandard2.0\KyberDomain.AssemblyInfo.cs
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberDomain\obj\Debug\netstandard2.0\KyberDomain.csproj.CoreCompileInputs.cache
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberDomain\bin\Debug\netstandard2.0\KyberDomain.deps.json
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberDomain\bin\Debug\netstandard2.0\KyberDomain.dll
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberDomain\bin\Debug\netstandard2.0\KyberDomain.pdb
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberDomain\obj\Debug\netstandard2.0\KyberDomain.dll
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberDomain\obj\Debug\netstandard2.0\KyberDomain.pdb

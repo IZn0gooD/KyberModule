@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = KyberDomain
+build_property.ProjectDir = C:\Users\mlopoukhine\VSCODE\KyberModule\KyberDomain\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

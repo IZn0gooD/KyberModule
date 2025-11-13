@@ -1,0 +1,17 @@
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberKeyManagement\bin\Debug\net8.0\KyberKeyManagement.deps.json
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberKeyManagement\bin\Debug\net8.0\KyberKeyManagement.dll
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberKeyManagement\bin\Debug\net8.0\KyberKeyManagement.pdb
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberKeyManagement\bin\Debug\net8.0\KyberDomain.dll
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberKeyManagement\bin\Debug\net8.0\KyberLibrary.dll
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberKeyManagement\bin\Debug\net8.0\KyberDomain.pdb
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberKeyManagement\bin\Debug\net8.0\KyberLibrary.pdb
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberKeyManagement\obj\Debug\net8.0\KyberKeyManagement.csproj.AssemblyReference.cache
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberKeyManagement\obj\Debug\net8.0\KyberKeyManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberKeyManagement\obj\Debug\net8.0\KyberKeyManagement.AssemblyInfoInputs.cache
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberKeyManagement\obj\Debug\net8.0\KyberKeyManagement.AssemblyInfo.cs
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberKeyManagement\obj\Debug\net8.0\KyberKeyManagement.csproj.CoreCompileInputs.cache
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberKeyManagement\obj\Debug\net8.0\KyberKey.EFE7050D.Up2Date
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberKeyManagement\obj\Debug\net8.0\KyberKeyManagement.dll
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberKeyManagement\obj\Debug\net8.0\refint\KyberKeyManagement.dll
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberKeyManagement\obj\Debug\net8.0\KyberKeyManagement.pdb
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberKeyManagement\obj\Debug\net8.0\ref\KyberKeyManagement.dll

@@ -1,0 +1,5 @@
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberDaemon\obj\Release\net6.0\KyberDaemon.csproj.AssemblyReference.cache
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberDaemon\obj\Release\net6.0\KyberDaemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberDaemon\obj\Release\net6.0\KyberDaemon.AssemblyInfoInputs.cache
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberDaemon\obj\Release\net6.0\KyberDaemon.AssemblyInfo.cs
+C:\Users\mlopoukhine\VSCODE\KyberModule\KyberDaemon\obj\Release\net6.0\KyberDaemon.csproj.CoreCompileInputs.cache
