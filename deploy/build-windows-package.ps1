@@ -7,6 +7,43 @@ param(
 Set-StrictMode -Version Latest
 $ErrorActionPreference = "Stop"
 
+# Vérifier que dotnet est disponible
+function Find-DotNet {
+    # Vérifier d'abord dans le PATH
+    $dotnetPath = Get-Command dotnet -ErrorAction SilentlyContinue
+    if ($dotnetPath) {
+        return $dotnetPath.Source
+    }
+    
+    # Chercher dans les emplacements standards Windows
+    $possiblePaths = @(
+        "${env:ProgramFiles}\dotnet\dotnet.exe",
+        "${env:ProgramFiles(x86)}\dotnet\dotnet.exe",
+        "$env:USERPROFILE\.dotnet\dotnet.exe"
+    )
+    
+    foreach ($path in $possiblePaths) {
+        if (Test-Path $path) {
+            return $path
+        }
+    }
+    
+    return $null
+}
+
+$dotnetExe = Find-DotNet
+if (-not $dotnetExe) {
+    Write-Error "Le SDK .NET n'a pas été trouvé. Veuillez installer le SDK .NET depuis https://dotnet.microsoft.com/download ou ajouter dotnet au PATH."
+    exit 1
+}
+
+# Si dotnet n'était pas dans le PATH, l'ajouter pour cette session
+if (-not (Get-Command dotnet -ErrorAction SilentlyContinue)) {
+    $dotnetDir = Split-Path $dotnetExe -Parent
+    $env:PATH = "$dotnetDir;$env:PATH"
+    Write-Host "==> Utilisation de dotnet trouvé à: $dotnetExe" -ForegroundColor Yellow
+}
+
 $root = Split-Path -Parent $MyInvocation.MyCommand.Path
 $solutionRoot = Resolve-Path (Join-Path $root "..")
 
@@ -16,7 +53,8 @@ New-Item -ItemType Directory -Path $OutputDirectory | Out-Null
 
 $publishArgs = @("publish", "-c", "Release", "-r", $Runtime)
 $publishArgs += "--self-contained"
-$publishArgs += ($FrameworkDependent.IsPresent ? "false" : "true")
+#$publishArgs += ($FrameworkDependent.IsPresent ? "false" : "true")
+$publishArgs += if ($FrameworkDependent.IsPresent) { "false" } else { "true" }
 
 # 1. Publier KyberDaemon
 Write-Host "==> Publication de KyberDaemon ($Runtime)" -ForegroundColor Cyan
