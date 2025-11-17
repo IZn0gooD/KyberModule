@@ -1,0 +1,17 @@
+[Unit]
+Description=KyberDaemon - Service de communication post-quantique
+After=network.target
+
+[Service]
+Type=simple
+User=kyberd
+Group=kyberd
+WorkingDirectory=/opt/kyberd
+ExecStart=/usr/bin/dotnet /opt/kyberd/KyberDaemon.dll --config /etc/kyberd/kyberd.conf
+ExecReload=/usr/bin/kill -HUP $MAINPID
+Restart=on-failure
+RestartSec=5
+Environment=DOTNET_ENVIRONMENT=Production
+
+[Install]
+WantedBy=multi-user.target
