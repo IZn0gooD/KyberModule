@@ -890,6 +890,8 @@ $encapsulated = Invoke-KyberEncapsulate -PublicKey $publicKey
 - PowerShell 5.1 ou PowerShell 7+
 - Windows, Linux ou macOS (PowerShell Core)
 
+> 📖 **Guide de compilation complet** : Voir [`COMPILATION.md`](COMPILATION.md) pour les instructions détaillées de compilation depuis zéro après avoir cloné le dépôt GitHub.
+
 ### 1. Module PowerShell
 ```powershell
 cd KyberModule\KyberModule
