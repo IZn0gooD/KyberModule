@@ -3,7 +3,7 @@
 
 **Version** : 1.1.0  
 **Date** : Décembre 2025  
-**Auteur** : Valorant Team Manager
+**Auteur** : Iznogood
 
 ---
 
